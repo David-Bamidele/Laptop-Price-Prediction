@@ -1,8 +1,3 @@
-I’ll help you create a README for your **"Laptop Price Prediction"** project based on your notebook file. I’ll review the file structure and code to get a sense of the project's goals, setup instructions, and workflow.
-
-Let me load the file and examine its contents.
-
-Based on the content of your notebook, here’s a draft for the README file:
 
 ---
 
